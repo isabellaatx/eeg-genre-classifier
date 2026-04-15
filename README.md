@@ -1,4 +1,4 @@
-# EEG Genre Classifier
+# EEG Genre Classifier Project
 
 Music engages complex neural networks across the brain, influencing alpha waves (8–12 Hz, relaxation) and beta waves (13–30 Hz, alertness) in ways that vary by genre. Musical training further shapes these responses—musicians develop stronger, more consistent neural reactions than non-musicians. My project takes a computational approach to ask: can a model predict what genre of music someone is listening to from brain wave activity alone, and does that accuracy differ between musicians and non-musicians? Understanding this has practical applications for therapeutic uses of music and could help define what practices are most effective per person.
 
